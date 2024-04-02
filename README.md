@@ -7,8 +7,8 @@ This project is a web application that visualizes and explores the Belly Button 
 
 ## File Structure
 
-- `app.js`: Contains the JavaScript code for fetching data from the provided API, creating interactive charts (bar chart, bubble chart), and displaying demographic information based on the selected sample.
-- `index.html`: The HTML file that serves as the main page of the web application, providing the structure and layout for the dashboard.
+- [`app.js`](https://github.com/myhre062/belly-button-challenge/blob/main/StarterCode/static/js/app.js): Contains the JavaScript code for fetching data from the provided API, creating interactive charts (bar chart, bubble chart), and displaying demographic information based on the selected sample.
+- [`index.html`](https://github.com/myhre062/belly-button-challenge/blob/main/StarterCode/index.html): The HTML file that serves as the main page of the web application, providing the structure and layout for the dashboard.
 
 ## Instructions
 
