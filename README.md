@@ -3,7 +3,9 @@
 # Module 14 Challenge
 
 ## OverView
-This project is a web application that visualizes and explores the Belly Button Biodiversity dataset, which catalogs the bacteria that can be found on a human belly button. There is an option to select from a number of participants. Participants are hidden by 
+This project is a web application that visualizes and explores the Belly Button Biodiversity dataset, which catalogs the bacteria that can be found on a human belly button. There is an option to select from a number of participants. Participants names are hidden by participant ids.
+
+![Bellybutton Biodiversity Example](/Users/ezrellemyhre-hager/Documents/GitHub/belly-button-challenge/Bellybutton_Biodiversity_example.png)
 
 ## File Structure
 

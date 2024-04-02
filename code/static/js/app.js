@@ -42,7 +42,11 @@ function barChart(sampleData) {
             orientation: "h",
         }];
 
-        Plotly.newPlot("bar", barData);
+        let layout = {
+            title: "Top 10 Bacteria Found on Participant",
+        };
+
+        Plotly.newPlot("bar", barData, layout);
     });
 }
 
@@ -67,7 +71,11 @@ function bubbleChart(sampleData) {
             }
         }];
 
-        Plotly.newPlot("bubble", bubbleData);
+        let layout = {
+            title: "All Bacteria Found on Participant",
+        };
+
+        Plotly.newPlot("bubble", bubbleData, layout);
     });
 }
 
