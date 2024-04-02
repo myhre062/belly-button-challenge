@@ -46,5 +46,5 @@ This file contains the HTML structure of the web application. It includes:
 - A title and description for the dashboard.
 - A container for the sample selection dropdown menu.
 - A card to display the demographic information.
-- Placeholders for the bar chart, gauge chart, and bubble chart.
+- Placeholders for the bar chart, and bubble chart.
 - Links to the required JavaScript files (`app.js` and `bonus.js`).
