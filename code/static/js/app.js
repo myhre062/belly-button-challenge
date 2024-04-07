@@ -1,6 +1,6 @@
 const sampleUrl = "https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json"
 
-let samples = d3.json(sampleUrl)
+let samples = d3.json(sampleUrl);
 
 function init() {
     // Initialize the page with the first sample
