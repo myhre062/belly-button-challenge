@@ -5,7 +5,7 @@
 ## OverView
 This project is a web application that visualizes and explores the Belly Button Biodiversity dataset, which catalogs the bacteria that can be found on a human belly button. There is an option to select from a number of participants. Participants names are hidden by participant ids.
 
-![Bellybutton Biodiversity Example](/Users/ezrellemyhre-hager/Documents/GitHub/belly-button-challenge/Bellybutton_Biodiversity_example.png)
+<img width="1118" alt="Bellybutton_Biodiversity_example" src="https://github.com/myhre062/belly-button-challenge/assets/150756626/31beabd6-1392-4961-a0d3-6a3776334b9e">
 
 ## File Structure
 
